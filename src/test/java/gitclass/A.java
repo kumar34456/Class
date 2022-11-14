@@ -19,7 +19,14 @@ public class A {
 
 
 	}
-		
+		public void method6() {
+			System.out.println("6");
+		}
+
+		public void method7() {
+			System.out.println("7");
+
+}
 }
 
 
