@@ -14,11 +14,14 @@ public class A {
 			System.out.println("4");
 
 	}
-		public void method5() {
-			System.out.println("5");
+		public void method9() {
+			System.out.println("9");
 
 
 	}
+		public void method10() {
+			System.out.println("10");
+		}
 		
 }
 
